@@ -1,7 +1,7 @@
 # SETools: Policy analysis tools for SELinux
 ## Build for Android SDK 36.1
 [build_cn.md](build_cn.md)
-
+[build_en.md](build_en.md)
 No GUI supported, only the command line tools.
 test in kali 6.16/ubuntu 22.04/ubuntu 24.04
 
